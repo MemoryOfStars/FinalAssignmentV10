@@ -1,0 +1,129 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DRAW_H	draw.h	2;"	d
+FRONT_H	front.h	2;"	d
+LCD_HEIGHT_BY_PIX	draw.h	18;"	d
+LCD_LINE_WIDTH_BY_PIX	draw.h	19;"	d
+LCD_WIDTH_BY_PIX	draw.h	17;"	d
+LETTER_HEIGHT	draw.h	20;"	d
+LETTER_NUMBERS	front.c	6;"	d	file:
+LETTER_PIX_SIZE	front.c	7;"	d	file:
+LETTER_WIDTH	draw.h	21;"	d
+LETTER_X0	front.c	/^static unsigned int LETTER_X0 = 0;$/;"	v	file:
+LETTER_Y0	front.c	/^static unsigned int LETTER_Y0 = 0;\/\/ 记录一个字符pix下标`````````````````````````：1149$/;"	v	file:
+_0	front.c	/^unsigned char _0[111] = {$/;"	v
+_1	front.c	/^unsigned char _1[111] = {$/;"	v
+_2	front.c	/^unsigned char _2[111] = {$/;"	v
+_3	front.c	/^unsigned char _3[111] = {$/;"	v
+_4	front.c	/^unsigned char _4[111] = {$/;"	v
+_5	front.c	/^unsigned char _5[111] = {$/;"	v
+_6	front.c	/^unsigned char _6[111] = {$/;"	v
+_7	front.c	/^unsigned char _7[111] = {$/;"	v
+_8	front.c	/^unsigned char _8[111] = {$/;"	v
+_9	front.c	/^unsigned char _9[111] = {$/;"	v
+_A	front.c	/^unsigned char _A[111] = {$/;"	v
+_B	front.c	/^unsigned char _B[111] = {$/;"	v
+_C	front.c	/^unsigned char _C[111] = {$/;"	v
+_D	front.c	/^unsigned char _D[111] = {$/;"	v
+_E	front.c	/^unsigned char _E[111] = {$/;"	v
+_F	front.c	/^unsigned char _F[111] = {$/;"	v
+_G	front.c	/^unsigned char _G[111] = {$/;"	v
+_H	front.c	/^unsigned char _H[111] = {$/;"	v
+_I	front.c	/^unsigned char _I[111] = {$/;"	v
+_J	front.c	/^unsigned char _J[111] = {$/;"	v
+_K	front.c	/^unsigned char _K[111] = {$/;"	v
+_L	front.c	/^unsigned char _L[111] = {$/;"	v
+_M	front.c	/^unsigned char _M[111] = {$/;"	v
+_N	front.c	/^unsigned char _N[111] = {$/;"	v
+_O	front.c	/^unsigned char _O[111] = {$/;"	v
+_P	front.c	/^unsigned char _P[111] = {$/;"	v
+_Q	front.c	/^unsigned char _Q[111] = {$/;"	v
+_R	front.c	/^unsigned char _R[111] = {$/;"	v
+_S	front.c	/^unsigned char _S[111] = {$/;"	v
+_T	front.c	/^unsigned char _T[111] = {$/;"	v
+_U	front.c	/^unsigned char _U[111] = {$/;"	v
+_V	front.c	/^unsigned char _V[111] = {$/;"	v
+_W	front.c	/^unsigned char _W[111] = {$/;"	v
+_X	front.c	/^unsigned char _X[111] = {$/;"	v
+_Y	front.c	/^unsigned char _Y[111] = {$/;"	v
+_Z	front.c	/^unsigned char _Z[111] = {$/;"	v
+_a	front.c	/^unsigned char _a[111] = {$/;"	v
+_andfu	front.c	/^unsigned char _andfu[111] = {$/;"	v
+_at	front.c	/^unsigned char _at[111] = {$/;"	v
+_b	front.c	/^unsigned char _b[111] = {$/;"	v
+_baifen	front.c	/^unsigned char _baifen[111] = {$/;"	v
+_bolangxian	front.c	/^unsigned char _bolangxian[111] = {$/;"	v
+_c	front.c	/^unsigned char _c[111] = {$/;"	v
+_d	front.c	/^unsigned char _d[111] = {$/;"	v
+_danyinhao	front.c	/^unsigned char _danyinhao[111] = {$/;"	v
+_dayu	front.c	/^unsigned char _dayu[111] = {$/;"	v
+_dengyu	front.c	/^unsigned char _dengyu[111] = {$/;"	v
+_dian	front.c	/^unsigned char _dian[111] = {$/;"	v
+_dollor	front.c	/^unsigned char _dollor[111] = {$/;"	v
+_douhao	front.c	/^unsigned char _douhao[111] = {$/;"	v
+_e	front.c	/^unsigned char _e[111] = {$/;"	v
+_f	front.c	/^unsigned char _f[111] = {$/;"	v
+_fanxiegang	front.c	/^unsigned char _fanxiegang[111] = {$/;"	v
+_fenhao	front.c	/^unsigned char _fenhao[111] = {$/;"	v
+_g	front.c	/^unsigned char _g[111] = {$/;"	v
+_gantan	front.c	/^unsigned char _gantan[111] = {$/;"	v
+_guandao	front.c	/^unsigned char _guandao[111] = {$/;"	v
+_h	front.c	/^unsigned char _h[111] = {$/;"	v
+_i	front.c	/^unsigned char _i[111] = {$/;"	v
+_j	front.c	/^unsigned char _j[111] = {$/;"	v
+_jia	front.c	/^unsigned char _jia[111] = {$/;"	v
+_jian	front.c	/^unsigned char _jian[111] = {$/;"	v
+_jinghao	front.c	/^unsigned char _jinghao[111] = {$/;"	v
+_k	front.c	/^unsigned char _k[111] = {$/;"	v
+_l	front.c	/^unsigned char _l[111] = {$/;"	v
+_m	front.c	/^unsigned char _m[111] = {$/;"	v
+_maohao	front.c	/^unsigned char _maohao[111] = {$/;"	v
+_n	front.c	/^unsigned char _n[111] = {$/;"	v
+_o	front.c	/^unsigned char _o[111] = {$/;"	v
+_p	front.c	/^unsigned char _p[111] = {$/;"	v
+_q	front.c	/^unsigned char _q[111] = {$/;"	v
+_r	front.c	/^unsigned char _r[111] = {$/;"	v
+_s	front.c	/^unsigned char _s[111] = {$/;"	v
+_shuangyinhao	front.c	/^unsigned char _shuangyinhao[111] = {$/;"	v
+_space	front.c	/^unsigned char _space[111] = {$/;"	v
+_t	front.c	/^unsigned char _t[111] = {$/;"	v
+_u	front.c	/^unsigned char _u[111] = {$/;"	v
+_v	front.c	/^unsigned char _v[111] = {$/;"	v
+_w	front.c	/^unsigned char _w[111] = {$/;"	v
+_wenhao	front.c	/^unsigned char _wenhao[111] = {$/;"	v
+_x	front.c	/^unsigned char _x[111] = {$/;"	v
+_xiahuaxian	front.c	/^unsigned char _xiahuaxian[111] = {$/;"	v
+_xiaoyu	front.c	/^unsigned char _xiaoyu[111] = {$/;"	v
+_xiegang	front.c	/^unsigned char _xiegang[111] = {$/;"	v
+_xinghao	front.c	/^unsigned char _xinghao[111] = {$/;"	v
+_y	front.c	/^unsigned char _y[111] = {$/;"	v
+_yihuo	front.c	/^unsigned char _yihuo[111] = {$/;"	v
+_youdakuo	front.c	/^unsigned char _youdakuo[111] = {$/;"	v
+_youkuohao	front.c	/^unsigned char _youkuohao[111] = {$/;"	v
+_youzhongkuo	front.c	/^unsigned char _youzhongkuo[111] = {$/;"	v
+_z	front.c	/^unsigned char _z[111] = {$/;"	v
+_zuodakuo	front.c	/^unsigned char _zuodakuo[111] = {$/;"	v
+_zuokuohao	front.c	/^unsigned char _zuokuohao[111] = {$/;"	v
+_zuozhongkuo	front.c	/^unsigned char _zuozhongkuo[111] = {$/;"	v
+cleanLetterXY	front.c	/^void cleanLetterXY()$/;"	f
+cleanScreen	draw.c	/^int cleanScreen(int color)$/;"	f
+drawLetter	draw.c	/^int drawLetter(int x0, int y0,char ch,int color,int array[])  $/;"	f
+drawRectEmpty_rgb16	draw.c	/^void drawRectEmpty_rgb16 (int x0, int y0, int width,int height, int color)  $/;"	f
+drawRect_rgb16	draw.c	/^void drawRect_rgb16 (int x0, int y0, int width,int height, int color)  $/;"	f
+drawStuff_rgb16	draw.c	/^int drawStuff_rgb16(int x0,int y0,int width,int height,int color,int col,int row)$/;"	f
+drawline_rgb16	draw.c	/^void drawline_rgb16 (int x0,int y0, int width,int height, int color,int flag0)  $/;"	f
+finfo	draw.c	/^struct fb_fix_screeninfo finfo;  $/;"	v	typeref:struct:fb_fix_screeninfo
+frameBuffer	draw.c	/^char *frameBuffer = 0;  $/;"	v
+front	front.c	/^unsigned char* front[94] = $/;"	v
+getLetterFront	front.c	/^unsigned char* getLetterFront(char ch)$/;"	f
+isBitOne	front.c	/^int isBitOne(unsigned char * letter)$/;"	f
+main	maindraw.c	/^int main (int argc, char **argv)  $/;"	f
+printFixedInfo	draw.c	/^void printFixedInfo ()  $/;"	f
+printVariableInfo	draw.c	/^void printVariableInfo ()  $/;"	f
+printfScreenLetter	draw.c	/^int printfScreenLetter(int x0,int y0,const char* frame,int color)$/;"	f
+search	front.c	/^char *search = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ~!@#$%^&*()_-+={[}]|\\\\:;\\"'<,>.?\/ ";$/;"	v
+vinfo	draw.c	/^struct fb_var_screeninfo vinfo;  $/;"	v	typeref:struct:fb_var_screeninfo
